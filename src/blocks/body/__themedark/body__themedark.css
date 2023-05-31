@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+}
+
+
+.body__themedark {
+    background-color: #2D2D2D;
+    font-family: "PT Sans", "Arial", sans-serif;
+}

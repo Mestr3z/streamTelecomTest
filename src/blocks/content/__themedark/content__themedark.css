@@ -1,0 +1,10 @@
+.content__themedark {
+    max-width: 398px;
+    min-height: 310px;
+    margin: 0 auto;
+    margin-top: 200px;
+    background-color: #252525;
+    align-items: center;
+    border: 1px solid;
+    border-radius: 4px;
+}
