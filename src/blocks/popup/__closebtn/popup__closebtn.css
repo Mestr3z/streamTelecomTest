@@ -4,10 +4,20 @@
     right: -90px;
     width: 24px;
     height: 24px;
-    background-image: url(../../../images/close.svg);
     border: none;
     outline: none;
-    background-color: transparent;
     cursor: pointer;
     margin-right: 100px;
+    fill: #252525;
+}
+
+.popup__closebtn:hover {
+    opacity: 0.5;
+    transition: opacity 1.0s linear 0.3;
+}
+
+@media screen and (prefers-color-scheme: dark) {
+    .popup__closebtn {
+        fill: #F8F8F8
+    }
 }

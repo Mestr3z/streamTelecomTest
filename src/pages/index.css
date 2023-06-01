@@ -1,13 +1,14 @@
+@import url(../vendor/font.css);
 @import url(../blocks/authentication/authentication.css);
 @import url(../blocks/authentication/__info/authentication__info.css);
 @import url(../blocks/body/body.css);
 @import url(../blocks/button/button.css);
 @import url(../blocks/button/__text/button__text.css);
-@import url(../blocks/button/__click/button__click.css);
 @import url(../blocks/content/content.css);
 @import url(../blocks/icon/icon.css);
 @import url(../blocks/link/link.css);
 @import url(../blocks/popup/popup.css);
+@import url(../blocks/popup/__active/popup__active.css);
 @import url(../blocks/popup/__closebtn/popup__closebtn.css);
 @import url(../blocks/popup/__subtitle/popup__subtitle.css);
 @import url(../blocks/popup/__title/popup__title.css);
@@ -15,7 +16,6 @@
 @import url(../blocks/protocols/protocols.css);
 @import url(../blocks/securitysettings/securitysettings.css);
 @import url(../blocks/settings/settings.css);
-@import url(../blocks/settings/__login/settings__login.css);
 @import url(../blocks/settings/__logo/settings__logo.css);
 @import url(../blocks/settings/__title/settings__title.css);
 @import url(../blocks/settings/__info/settings__info.css);

@@ -3,3 +3,9 @@
     height: 50px;
     background-image: url(../../../images/Icon.svg);
 }
+
+@media screen and (prefers-color-scheme: dark) {
+    .settings__logo {
+        background-image: url(../../../images/icondark.svg);
+    }
+}
